@@ -1,6 +1,6 @@
 import requests
-FLIGHT_DEALS_GET_API = "https://api.sheety.co/fd03cbf60232f190adaead5b6de995a1/flightDeals/sheet1"
-FLIGHT_DEALS_PUT_API = "https://api.sheety.co/fd03cbf60232f190adaead5b6de995a1/flightDeals/sheet1/"
+FLIGHT_DEALS_GET_API = ""
+FLIGHT_DEALS_PUT_API = ""
 
 
 class DataManager:
